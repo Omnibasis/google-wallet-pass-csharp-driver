@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omnibasis.GoogleWallet.Demo", "Omnibasis.GoogleWallet.Demo.csproj", "{841249CE-1874-4056-AD39-F786F4886896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{841249CE-1874-4056-AD39-F786F4886896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841249CE-1874-4056-AD39-F786F4886896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841249CE-1874-4056-AD39-F786F4886896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841249CE-1874-4056-AD39-F786F4886896}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {345363E5-4DC1-4031-8847-C21B644C0CB8}
+	EndGlobalSection
+EndGlobal

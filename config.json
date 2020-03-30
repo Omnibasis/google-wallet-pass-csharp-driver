@@ -1,0 +1,15 @@
+﻿{
+  "DigitalPass": {
+    "Google": {
+      "Key": "YOUR_KEY",
+      "AccountFile": "C:\\Path To Project File\\Omnibasis.GoogleWallet.Demo\\omnipass.json", //
+      "EmailAddress": "YOUR_SERVICE_ACCOUNT",
+      "IssuerId": "YOUR_ISSUER_ID",
+      "PrivateKey": "",
+      "ApplicationName": "omnipass",
+      "Audience": "google",
+      "JwtType": "savetoandroidpay",
+      "Scopes": "https://www.googleapis.com/auth/wallet_object.issuer"
+    }
+  }
+}
