@@ -6,8 +6,6 @@ receive [de]install notifications.
 **Attention:** Google Pay API Account required!
 [Google Pay API account](https://developers.google.com/pay/passes/guides/get-started/basic-setup/get-access-to-rest-api)
 
-[![NuGet](https://img.shields.io/nuget/v/PassKitHelper.svg?maxAge=86400&style=flat)](https://www.nuget.org/packages/PassKitHelper/) 
-
 1. You need to replace omnipass.json file with credentials file obtained from Google.
 2. You need to update the following content in config.json obtained from Google.
     a. "Key": "YOUR_KEY",
